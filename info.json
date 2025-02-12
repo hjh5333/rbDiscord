@@ -1,0 +1,44 @@
+{
+    "skillTree": [
+      {
+        "name": "1전사",
+        "value": "👉 검사 : URL 필요\n👉 파이터 : URL 필요\n👉 스피어맨 : URL 필요\n👉 페이지 : URL 필요"
+      },
+      {
+        "name": "마법사",
+        "value": "👉 매지션 : URL 필요\n👉 썬콜 : https://arca.live/b/mapleland/125266579\n👉 불독 : URL 필요\n👉 클레릭 : URL 필요"
+      },
+      {
+        "name": "도적",
+        "value": "👉 로그 : URL 필요\n👉 표도 : https://arca.live/b/mapleland/117238958\n👉 시프 : URL 필요"
+      },
+      {
+        "name": "궁수",
+        "value": "👉 아처 : URL 필요\n👉 헌터 : URL 필요\n👉 사수 : URL 필요"
+      }
+    ],
+
+    "moneyQuest" : [
+      {
+        "name" : "장공",
+        "value" : "👉 장공퀘 목록 : "
+      }
+    ],
+
+    "partyQuest" : [
+      {
+        "name"  : "오르비스" ,
+        "value" : "https://arca.live/b/mapleland/109907739"
+      },
+
+      {
+        "name"  : "" ,
+        "value" : ""
+      },
+
+      {
+        "name"  : "" ,
+        "value" : ""
+      }
+    ]
+  }
